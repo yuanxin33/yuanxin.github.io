@@ -1,8 +1,9 @@
 ## Welcome to YX's Pages
 <h1>This site belongs to 袁鑫.</h1>
 You can use the [editor on GitHub](https://github.com/yuanxin33/yuanxin.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<h1>我的个人简介：家乡：四川宜宾筠连（是个风景宜人的小县城）</h1>
+<h2>爱好：二次元，羽毛球，书法</h2>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
