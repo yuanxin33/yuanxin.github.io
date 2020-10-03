@@ -2,5 +2,8 @@
  <html lang="zh-cn"> 
  <head> 
  <meta charset="utf-8"/>
+ <head>My page</head>
  <h1>Hello,welcome</h1>
- <h2>My name is 袁鑫</h2>	
+ <h2>My name is 袁鑫</h2>
+ <img src="雷姆.jpg">alt="雷姆"
+ <h3>没错，看到图片就能明白我是一个资深二次元</h3>
