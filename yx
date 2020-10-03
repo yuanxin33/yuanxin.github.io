@@ -1,1 +1,5 @@
-<h1>hello
+<!DOCTYPE html> 
+ <html lang="zh-cn"> 
+ <head> 
+ <meta charset="utf-8"/>
+ <h1>Hello,welcome</h1>
