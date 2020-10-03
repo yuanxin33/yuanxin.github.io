@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to YX's Pages
 <h1>This site belongs to 袁鑫.</h1>
 You can use the [editor on GitHub](https://github.com/yuanxin33/yuanxin.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
