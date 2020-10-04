@@ -10,7 +10,7 @@
 <h4>籍贯：四川宜宾筠连(一个风景宜人，一切都很慢的小城市)</h4>
 <img src="https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=1576235156,3170276636&fm=26&gp=0.jpg" align="left">
 <img src="https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=4250150245,2449312022&fm=26&gp=0.jpg" align="left" width="300" height="auto"/>
-<h5>说起筠连，不得不提的就是他酸辣可口的水粉了！</h5></br>
+<h5>说起筠连，不得不提的就是他酸辣可口的水粉了！</h5>
 
 <p></p>
 <p></p>
@@ -26,5 +26,6 @@ ps:来自北京大学的大学渣   吾日三省吾身：我是谁？我是怎�
 <img src="https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=2566217071,2757304784&fm=26&gp=0.jpg" width="300" height="300"/>
 <img src="https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=134329327,1754759211&fm=26&gp=0.jpg" width="300" height="300"/>
 <div class="block"><img src="https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=1408709107,962801091&fm=26&gp=0.jpg">
-<p>要说最喜欢的动物，当然就是比我还聪明的小狗：边牧（总有那么一句话：别耽误人边牧上清华）</p>
-</div>
+<p>要说最喜欢的动物，当然就是比我还聪明的小狗：边牧（总有那么一句话：别耽误人边牧上清华）</p></div>
+<p>为什么这么聪明？看就完事了</p>
+<a href="https://www.bilibili.com/video/BV1V7411P71U/?spm_id_from=333.788.videocard.0" title="bilibili">边牧和二哈</a>
