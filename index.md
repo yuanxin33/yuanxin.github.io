@@ -1,5 +1,5 @@
 ## Welcome to YX's Pages
-<html.<head><meta charest="utf-8"/><title>简单的JavaScript</title>
+<html><head><meta charest="utf-8"/><title>简单的JavaScript</title>
 </head><script src="javascript/101.js"></script>
 <head>
 <meta charset="utf-8"> 
