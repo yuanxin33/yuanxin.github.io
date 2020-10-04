@@ -1,4 +1,3 @@
-alert("欢迎来到袁鑫创建的世界!");
 ## Welcome to YX's Pages
 
 <head>
