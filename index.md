@@ -40,9 +40,9 @@ p {font-size:100%;}
 <p>硬要说有啥技能的话，就是能写毛笔字了吧（王者荣耀也还行（doge））</p>
 <img src="https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=2566217071,2757304784&fm=26&gp=0.jpg" width="300" height="300"/>
 <img src="https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=134329327,1754759211&fm=26&gp=0.jpg" width="300" height="300"/>
-<div class="block"><img src="https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=1408709107,962801091&fm=26&gp=0.jpg">
-<body>
-<h1>最爱的动物</h1>
+<div <body><h1>最爱的动物</h1>
+class="block"><img src="https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=1408709107,962801091&fm=26&gp=0.jpg">
+
 <p class="main">“边境牧羊犬（Border Collie），原产于苏格兰边境，为柯利牧羊犬的一种，具有强烈的牧羊本能，天性聪颖、善于察言观色，能准确明白主人的指示，可借由眼神的注视而驱动羊群移动或旋转，被当成牧羊犬已有多年的历史，在世界犬种智商排行第一名。
 特点是聪明、学习能力强、理解力高、容易训练、善于和主人沟通、温和、忠诚、服从性好，其忠心程度可以用如影随形来形容。由于温和忠诚的性格不乱叫，一度成为最受城市人口欢迎的宠物。而且边境牧羊犬还是飞盘狗最具竞争力的犬种，是历年飞盘狗世界杯大赛的主角。”</p>
 <p><b>注意：</b>不聪明的话就别养了，不然他会嫌弃你笨（滑稽）（总有那么一句话：别耽误人边牧上清华）</p>
