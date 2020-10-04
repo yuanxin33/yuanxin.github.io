@@ -9,6 +9,7 @@ h2 {font-size:250%;}
 h6 {font-size:250%;}
 h7 {font-size:250%;}
 h8 {font-size:250%;}
+h9 {font-size:250%;}
 p {font-size:100%;}
 </style>
 </head>
@@ -33,7 +34,8 @@ p {font-size:100%;}
 <img src="https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=78947749,2810170649&fm=26&gp=0.jpg">
 <h8><b>优点：</b></h8>
 <p>对认识的人坦诚相待，尽自己的努力尽量帮助别人，有良好的沟通能力，善于与他人相处，富有团队合作精神，热爱运动。但人非完人，自己在某些方面还是有一定的不足，比如知识，社会经验等;不过我相信这些都是可以通过自己努力的学习来提高的，我也正朝着这个方向努力!</p><br/>
-<h10><b>技能：</b></h10><h11>硬要说有啥技能的话，就是能写毛笔字了吧（王者荣耀也还行（doge））</h11>
+<h9><b>技能：</b></h9>
+<p>硬要说有啥技能的话，就是能写毛笔字了吧（王者荣耀也还行（doge））</p>
 <img src="https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=2566217071,2757304784&fm=26&gp=0.jpg" width="300" height="300"/>
 <img src="https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=134329327,1754759211&fm=26&gp=0.jpg" width="300" height="300"/>
 <div class="block"><img src="https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=1408709107,962801091&fm=26&gp=0.jpg">
