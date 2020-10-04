@@ -6,6 +6,7 @@
 <style>
 h1 {font-size:250%;}
 h2 {font-size:250%;}
+h4 {font-size:250%;}
 h6 {font-size:250%;}
 h7 {font-size:250%;}
 h8 {font-size:250%;}
@@ -21,7 +22,8 @@ p {font-size:100%;}
 <img src="https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=2583851597,902201045&fm=26&gp=0.jpg" width="50%" height="auto"/>
 <p>资深老二刺螈是“雷”打不动的，懂得都懂，感兴趣的话下面这个视频强烈安利</p>
 <a href="https://www.bilibili.com/video/BV1dT4y1w7aR" title="bilibili">哔哩哔哩视频</a>
-<h4><b>籍贯：</b>四川宜宾筠连(一个风景宜人，一切都很慢的小城市)</h4>
+<h4><b>籍贯：</b></h4>
+<p>四川宜宾筠连(一个风景宜人，一切都很慢的小城市)</p>
 <img src="https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=1576235156,3170276636&fm=26&gp=0.jpg" align="left">
 <img src="https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=4250150245,2449312022&fm=26&gp=0.jpg" align="left" width="300" height="auto"/>
 <h5>说起筠连，不得不提的就是他酸辣可口的水粉了！</h5>
