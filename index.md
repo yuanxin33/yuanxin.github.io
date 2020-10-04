@@ -5,7 +5,7 @@ You can use the [editor on GitHub](https://github.com/yuanxin33/yuanxin.github.i
 <h1>我的个人简介：袁鑫</h1>
 <h2>爱好：二次元，羽毛球，书法</h2>
 <img src="https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=2583851597,902201045&fm=26&gp=0.jpg">
-<h3>资深老二刺螈是“雷”打不动的，懂得都懂</h3>
+<h3>资深老二刺螈是“雷”打不动的，懂得都懂，感兴趣的话下面这个视频强烈安利</h3>
 <a href="https://www.bilibili.com/video/BV1dT4y1w7aR" title="bilibili">哔哩哔哩视频</a>
 <h4>籍贯：四川宜宾筠连(一个风景宜人，一切都很慢的小城市)</h4>
 <h5>学历：大学本科（不过未来肯定是院士（滑稽））</h5>
