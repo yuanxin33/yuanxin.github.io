@@ -1,4 +1,5 @@
 ## Welcome to YX's Pages
+<head><style>p {border:1px solid red;}img {float:left; margin:0 5px 5px 0;}</style>
 <html><body style="background-color:#00a7d0;"><h1 style="color:white;padding:30px;">Hostinger Tutorials</h1><p style="color:white;">Something usefull here.</p></body></html>
 <h1>This site belongs to 袁鑫.</h1>
 <h1>我的个人简介：袁鑫</h1>
