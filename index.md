@@ -9,7 +9,7 @@
 <a href="https://www.bilibili.com/video/BV1dT4y1w7aR" title="bilibili">哔哩哔哩视频</a>
 <h4>籍贯：四川宜宾筠连(一个风景宜人，一切都很慢的小城市)</h4>
 <img src="https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=1576235156,3170276636&fm=26&gp=0.jpg" align="left">
-<img src="https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=4250150245,2449312022&fm=26&gp=0.jpg" align="left" width="200" height="auto"/>
+<img src="https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=4250150245,2449312022&fm=26&gp=0.jpg" align="left" width="300" height="auto"/>
 <h5>说起筠连，不得不提的就是他酸辣可口的水粉了！</h5></br>
 
 <p></p></br>
