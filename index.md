@@ -1,6 +1,5 @@
 ## Welcome to YX's Pages
-<!DOCTYPE html>
-<html><body style="background-color:black;"><h1 style="color:white;padding:30px;">Hostinger Tutorials</h1><p style="color:white;">Something usefull here.</p></body></html>
+<html><body style="background-color:blue;"><h1 style="color:white;padding:30px;">Hostinger Tutorials</h1><p style="color:white;">Something usefull here.</p></body></html>
 <h1>This site belongs to 袁鑫.</h1>
 You can use the [editor on GitHub](https://github.com/yuanxin33/yuanxin.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 <h1>我的个人简介：袁鑫</h1>
