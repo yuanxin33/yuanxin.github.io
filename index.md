@@ -11,6 +11,8 @@
 <img src="https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=1576235156,3170276636&fm=26&gp=0.jpg" align="left">
 <img src="https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=4250150245,2449312022&fm=26&gp=0.jpg" align="left" width="200" height="auto"/>
 <h5>说起筠连，不得不提的就是他酸辣可口的水粉了！</h5></br>
+
+
 <h6>学历：大学本科（不过未来肯定是院士（滑稽））
 ps:来自北京大学的大学渣   吾日三省吾身：我是谁？我是怎么考进来的？他们怎么什么都会？</h6>
 <img src="2.jpg.jpg" width="300" height="300"/>
