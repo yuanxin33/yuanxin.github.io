@@ -40,7 +40,7 @@ p {font-size:100%;}
 <p>硬要说有啥技能的话，就是能写毛笔字了吧（王者荣耀也还行（doge））</p>
 <img src="https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=2566217071,2757304784&fm=26&gp=0.jpg" width="300" height="300"/>
 <img src="https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=134329327,1754759211&fm=26&gp=0.jpg" width="300" height="300"/>
-<div <body><h1>最爱的动物</h1>
+<div><body><h1>最爱的动物</h1>
 <img src="https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=1408709107,962801091&fm=26&gp=0.jpg">
 
 <p class="main">“边境牧羊犬（Border Collie），原产于苏格兰边境，为柯利牧羊犬的一种，具有强烈的牧羊本能，天性聪颖、善于察言观色，能准确明白主人的指示，可借由眼神的注视而驱动羊群移动或旋转，被当成牧羊犬已有多年的历史，在世界犬种智商排行第一名。
