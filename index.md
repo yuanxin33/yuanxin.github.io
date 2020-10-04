@@ -13,7 +13,7 @@ h8 {font-size:250%;}
 h9 {font-size:250%;}
 h10 {font-size:250%;}
 h11 {font-size:250%;}
-h12 {font-size:100%;}
+h12 {font-size:10%;}
 p {font-size:100%;}
 </style>
 </head>
