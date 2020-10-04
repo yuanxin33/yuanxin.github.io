@@ -13,7 +13,7 @@ h8 {font-size:250%;}
 h9 {font-size:250%;}
 h10 {font-size:250%;}
 h11 {font-size:250%;}
-h12 {font-size:10%;}
+h12 {font-size:90%;}
 p {font-size:100%;}
 </style>
 </head>
@@ -58,4 +58,4 @@ p {font-size:100%;}
 <h11><b>最爱的运动</b><h11>
 <img src="https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=3395523629,2504974987&fm=26&gp=0.jpg">
 <h12>不用我多解释，如下</h12>
-<a href="https://www.bilibili.com/video/BV1D4411d7KW?from=search&seid=12291839594869579088" title="bilibili">羽毛球扣杀</a>
+<a href="https://www.bilibili.com/video/BV1D4411d7KW?from=search&seid=12291839594869579088" title="bilibili">羽</a>
