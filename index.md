@@ -7,8 +7,10 @@
 <img src="https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=2583851597,902201045&fm=26&gp=0.jpg" width="50%" height="auto"/>
 <h3>资深老二刺螈是“雷”打不动的，懂得都懂，感兴趣的话下面这个视频强烈安利</h3>
 <a href="https://www.bilibili.com/video/BV1dT4y1w7aR" title="bilibili">哔哩哔哩视频</a>
-<h4>籍贯：四川宜宾筠连(一个风景宜人，一切都很慢的小城市)</h4>
-<img src="https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=1576235156,3170276636&fm=26&gp=0.jpg">
+<h4>籍贯：四川宜宾筠连(一个风景宜人，一切都很慢的小城市)
+不得不说的肯定是那酸辣迷人的水粉了！</h4>
+<img src="https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=1576235156,3170276636&fm=26&gp=0.jpg" align="left">
+<img src="https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=4250150245,2449312022&fm=26&gp=0.jpg" align="left">
 <h5>学历：大学本科（不过未来肯定是院士（滑稽））
 ps:来自北京大学的大学渣   吾日三省吾身：我是谁？我是怎么考进来的？他们怎么什么都会？</h5>
 <img src="2.jpg.jpg" width="300" height="300"/>
@@ -18,3 +20,6 @@ ps:来自北京大学的大学渣   吾日三省吾身：我是谁？我是怎�
 <h9><b>技能：</b></h9><h10>硬要说有啥技能的话，就是能写毛笔字了吧（王者荣耀也还行（doge））</h10>
 <img src="https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=2566217071,2757304784&fm=26&gp=0.jpg" width="300" height="300"/ align="left">
 <img src="https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=134329327,1754759211&fm=26&gp=0.jpg" width="300" height="300"/ align="left">
+<div class="block"><img src="https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=1408709107,962801091&fm=26&gp=0.jpg">
+<p>要说最喜欢的动物，当然就是比我还聪明的小狗：边牧（总有那么一句话：别耽误人边牧上清华）</p>
+</div>
