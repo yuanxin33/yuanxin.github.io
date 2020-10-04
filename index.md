@@ -3,7 +3,7 @@
 You can use the [editor on GitHub](https://github.com/yuanxin33/yuanxin.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 <h1>我的个人简介：袁鑫</h1>
 <h2>爱好：二次元，羽毛球，书法</h2>
-<img src="file://C:/Users/86136/Desktop/1.jpg"  width="112" height=" 112"alt="雷姆"/> 
+<img src="file://D:/images/1.jpg"  width="112" height=" 112"alt="雷姆"/> 
 <h3>籍贯：四川宜宾筠连(一个风景宜人，一切都很慢的小城市)</h3>
 
 ### Markdown
