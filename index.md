@@ -14,11 +14,10 @@ ps:来自北京大学的大学渣   吾日三省吾身：我是谁？我是怎�
 <h6>专业知识：现在什么都还没有学到，不过我肯定会努力地学习的(这么多知识肯定会让人头秃的)</h6>
 <img src="https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=78947749,2810170649&fm=26&gp=0.jpg">
 <h7><b>优点：</b></h7><h8>对认识的人坦诚相待，尽自己的努力尽量帮助别人，有良好的沟通能力，善于与他人相处，富有团队合作精神，热爱运动。但人非完人，自己在某些方面还是有一定的不足，比如知识，社会经验等;不过我相信这些都是可以通过自己努力的学习来提高的，我也正朝着这个方向努力!</h8><br/>
-<h9><b>技能：</b></h9><h10>硬要说有啥技能的话，就是能写毛笔字了吧（王者荣耀也还行（doge））</h10>
 <img src="https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=2566217071,2757304784&fm=26&gp=0.jpg" width="300" height="300"/ align="left">
 <img src="https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=134329327,1754759211&fm=26&gp=0.jpg" width="300" height="300"/ align="left">
-<div class="golf"><div class="photo"><img src="images/ql36.jpg"></div><div class="intro"><h3>高尔夫</h3>
-  <p>高尔夫球运动是一项健康、绿色、快乐、回归自然的体育运动，打高尔夫球能让人体验挑战与激情，实现人与自然的和谐。人与人礼貌谦让的良好运动精神，是高尔夫球运动的精髓所在。山东的高尔夫球场近30家，全部是按国际标准建造的，场内服务功能及设施完备，是比赛、会议、旅游休闲、商务于一体的度假场所，来山东打高尔夫球定会让您亲身体验到高尔夫应享的尊贵服务。</p>
+<div class="golf"><div class="photo"><img src="https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=134329327,1754759211&fm=26&gp=0.jpg"></div><div class="intro"><h3>高尔夫</h3>
+  <p><b>技能：</b>硬要说有啥技能的话，就是能写毛笔字了吧（王者荣耀也还行（doge））</p>
 </div>
 </div>.photo{float:left;width:20%;}
 .intro{float:right;width:80%;}
