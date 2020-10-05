@@ -26,7 +26,7 @@ p {font-size:100%;}
 <h4><b>籍贯：</b></h4>
 <p>四川宜宾筠连(一个风景宜人，一切都很慢的小城市)</p>
 <img src="https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=1576235156,3170276636&fm=26&gp=0.jpg" align="left">
-<img src="https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=4250150245,2449312022&fm=26&gp=0.jpg" align="left" width="300" height="auto"/>
+<img src="https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=4250150245,2449312022&fm=26&gp=0.jpg" align="left" width="250" height="auto"/>
 <h5>说起筠连，不得不提的就是他酸辣可口的水粉了！</h5>
 <p>怀念！</p>
 <h6><b>学历：</b></h6>
