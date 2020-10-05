@@ -15,6 +15,7 @@ p {font-size:100%;}
 </style>
 </head>
 <html><body style="background-color:#00a7d0;"><h1 style="color:white;padding:30px;">Hostinger Tutorials</h1><p style="color:white;">Something usefull here.</p></body></html>
+<img src="2.jpg" align="none">
 <h1>This site belongs to 袁鑫.</h1>
 <h1>我的个人简介：袁鑫 身高：180（将来会长到的身高）（doge）体重：140（一定会努力减下去的！）</h1>
 <h2>爱好：</h2>
