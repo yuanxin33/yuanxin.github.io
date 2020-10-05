@@ -1,4 +1,5 @@
 ## Welcome to YX's Pages
+<script src="javascript/101.js"></script>
 <head>
 <title>菜鸟教程(runoob.com)</title>
 <style>
