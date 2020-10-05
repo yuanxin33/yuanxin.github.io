@@ -15,7 +15,7 @@ h11 {font-size:250%;}
 p {font-size:100%;}
 </style>
 </head>
-<html><body style="background-color:#00a7d0;"><h1 style="color:white;padding:30px;">Hostinger Tutorials</h1><p style="color:white;">Something usefull here.</p></body></html>
+<html><body style="background-color:#00a7d0;"><h1 style="color:white;padding:30px;"></h1><p style="color:white;"</p></body></html>
 <audio controls="controls" height="100" width="100">
 <source src="date.mp3" type="audio/mp3" />
 <source src="date.mp3" type="audio/ogg" />
