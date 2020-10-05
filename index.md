@@ -1,7 +1,6 @@
 ## Welcome to YX's Pages
 <script src="javascript/101.js"></script>
 <head>
-<title>菜鸟教程(runoob.com)</title>
 <style>
 h1 {font-size:250%;}
 h2 {font-size:250%;}
